@@ -316,7 +316,7 @@ nav a:hover {
 }
 
 .project-image1 {
-    background-image: url("./imgs/mobile-app.jpg");
+    background-image: url("../imgs/mobile-app.jpg");
     width: 100%;
     height: 10rem;
     background-size: cover;
@@ -326,7 +326,7 @@ nav a:hover {
 }
 
 .project-image2 {
-    background-image: url("./imgs/data-tracking.jpg");
+    background-image: url("../imgs/data-tracking.jpg");
     width: 100%;
     height: 10rem;
     background-size: cover;
@@ -336,7 +336,7 @@ nav a:hover {
 }
 
 .project-image3 {
-    background-image: url("./imgs/web-design.jpg");
+    background-image: url("../imgs/web-design.jpg");
     width: 100%;
     height: 10rem;
     background-size: cover;
